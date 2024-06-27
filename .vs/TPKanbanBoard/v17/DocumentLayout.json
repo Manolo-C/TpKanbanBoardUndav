@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\TPKanbanBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|solutionrelative:TPKanbanBoard\\TPKanbanBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|solutionrelative:TPKanbanBoard\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Column.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|solutionrelative:TPKanbanBoard\\Column.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Column.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|solutionrelative:TPKanbanBoard\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Column.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|solutionrelative:TPKanbanBoard\\Column.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\State.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|solutionrelative:TPKanbanBoard\\State.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\TPKanbanBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F7D74D6-0541-4D7D-B1EE-E1ADC9C46146}|TPKanbanBoard\\TPKanbanBoard.vcxproj|solutionrelative:TPKanbanBoard\\TPKanbanBoard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TPKanbanBoard.cpp",
               "DocumentMoniker": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\TPKanbanBoard.cpp",
               "RelativeDocumentMoniker": "TPKanbanBoard\\TPKanbanBoard.cpp",
               "ToolTip": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\TPKanbanBoard.cpp",
               "RelativeToolTip": "TPKanbanBoard\\TPKanbanBoard.cpp",
-              "ViewState": "AQIAAJsAAAAAAAAAAADgv8YAAAABAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwGUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-30T22:36:52.077Z",
               "IsPinned": true,
@@ -48,52 +48,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Card.cpp",
               "DocumentMoniker": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Card.cpp",
               "RelativeDocumentMoniker": "TPKanbanBoard\\Card.cpp",
               "ToolTip": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Card.cpp",
               "RelativeToolTip": "TPKanbanBoard\\Card.cpp",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAIAAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-25T21:49:30.889Z",
+              "WhenOpened": "2024-06-26T23:32:04.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "State.cpp",
-              "DocumentMoniker": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\State.cpp",
-              "RelativeDocumentMoniker": "TPKanbanBoard\\State.cpp",
-              "ToolTip": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\State.cpp",
-              "RelativeToolTip": "TPKanbanBoard\\State.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-25T20:50:02.334Z",
+              "DocumentIndex": 0,
+              "Title": "HashTable.h",
+              "DocumentMoniker": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\HashTable.h",
+              "RelativeDocumentMoniker": "TPKanbanBoard\\HashTable.h",
+              "ToolTip": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\HashTable.h",
+              "RelativeToolTip": "TPKanbanBoard\\HashTable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-26T23:31:03.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Column.cpp",
               "DocumentMoniker": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Column.cpp",
               "RelativeDocumentMoniker": "TPKanbanBoard\\Column.cpp",
               "ToolTip": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Column.cpp",
               "RelativeToolTip": "TPKanbanBoard\\Column.cpp",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAMwNIAAAADAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAJUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-12T00:17:09.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Column.h",
               "DocumentMoniker": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Column.h",
               "RelativeDocumentMoniker": "TPKanbanBoard\\Column.h",
               "ToolTip": "C:\\Users\\carde\\Documents\\Code\\c\u002B\u002B\\TPKanbanBoard2\\TPKanbanBoard\\Column.h",
               "RelativeToolTip": "TPKanbanBoard\\Column.h",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAjwFYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-25T15:01:54.096Z",
               "EditorCaption": ""

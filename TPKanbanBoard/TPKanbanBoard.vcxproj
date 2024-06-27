@@ -146,6 +146,7 @@
     <ClInclude Include="Card.h" />
     <ClInclude Include="CardComment.h" />
     <ClInclude Include="Column.h" />
+    <ClInclude Include="HashTable.h" />
     <ClInclude Include="State.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

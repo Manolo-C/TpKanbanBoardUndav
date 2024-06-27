@@ -74,6 +74,7 @@ void KanbanBoardCard::DestroyCard(Card* card)
 	//TODO: Destruir todos los comentarios (destroyCardComment por cada item de la lista).
 	//TODO: Destruir lista (delate nodos y lista).
 	//TODO: Destruir el state si no es null.
+	// Ver lista.cpp para ayudarte
 	delete card;
 }
 
